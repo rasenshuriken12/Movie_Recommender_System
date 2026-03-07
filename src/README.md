@@ -7,7 +7,7 @@ This notebook implements a content-based movie recommendation system using the T
 ---
 
 ## 📋 Table of Contents
-1. [Importing Libraries](#importing-libraries)
+1. [Importing Libraries](#Importing Libraries)
 2. [Loading the Dataset](#loading-the-dataset)
 3. [Data Exploration & Merging](#data-exploration--merging)
 4. [Feature Selection](#feature-selection)
