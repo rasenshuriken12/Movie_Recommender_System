@@ -4,6 +4,8 @@
 
 This notebook implements a content-based movie recommendation system using the TMDB 5000 Movie Dataset. The system recommends movies similar to a user's selected movie based on features like overview, genres, keywords, cast, and crew.
 
+Future Scope - [Movie Knowledge Graph](https://github.com/DuarteDizz/movie-kg-explorer)
+
 ---
 
 ## 📋 Table of Contents
