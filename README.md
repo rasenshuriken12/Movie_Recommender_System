@@ -9,7 +9,7 @@
 
 ## 📌 Overview
 
-A content-based Movie Recommender System analyzes movie metadata (genres, keywords, cast, crew) to find and suggest films similar to a user's selected movie. It uses **cosine similarity** on text data processed through **Count Vectorization** to compute movie similarities.
+A content-based Movie Recommender System that analyzes movie metadata (genres, keywords, cast, crew) to find and suggest films similar to a user's selected movie. It uses **cosine similarity** on text data processed through **Count Vectorization** to compute movie similarities.
 
 ---
 
@@ -31,7 +31,7 @@ A content-based Movie Recommender System analyzes movie metadata (genres, keywor
 | **Web Framework** | Streamlit |
 | **Data Processing** | Pandas, NumPy |
 | **Machine Learning** | Scikit-learn (CountVectorizer, cosine_similarity) |
-| **Data Source** | TMDB 5000 Movie Dataset |
+| **Data Source** | [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) |
 | **Version Control** | Git |
 
 ---
