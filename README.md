@@ -1,12 +1,15 @@
 # Movie_Recommender_System
 
-A content-based movie recommendation engine that suggests similar movies based on your preferences. Built with Python and machine learning techniques.
+<br> ![Author: Deviprasad Shetty](https://img.shields.io/badge/Author-💫_Deviprasad%20Shetty-000000?style=for-the-badge&labelColor=white)
+ 
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/deviprasad-shetty-4bba49313) | [![My_Portfolio](https://img.shields.io/badge/My_Portfolio-indigo?style=for-the-badge&logo=firefox&logoColor=white)](https://deviprasadshetty.com/) | [![My_Projects](https://img.shields.io/badge/My_Projects-000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/DeviprasadShetty9833/My_Projects)  |                      
+|---|---|---|
 
 ---
 
 ## 📌 Overview
 
-This Movie Recommender System analyzes movie metadata (genres, keywords, cast, crew) to find and suggest films similar to a user's selected movie. It uses **cosine similarity** on text data processed through **Count Vectorization** to compute movie similarities.
+A content-based Movie Recommender System analyzes movie metadata (genres, keywords, cast, crew) to find and suggest films similar to a user's selected movie. It uses **cosine similarity** on text data processed through **Count Vectorization** to compute movie similarities.
 
 ---
 
